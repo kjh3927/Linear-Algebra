@@ -7,13 +7,14 @@ Textbook : Marc Peter Deisenroth, A Aldo Faisal and Cheng Soon Ong - Mathematics
 
 
 
-Chapter 1 : Introduction and Motivation
+**Chapter 1 : Introduction and Motivation**
 
 1.1 Finding Words for Intuitions 
 
 1.2 Two Ways to Read This Book
 
-Chapter 2 : Linear Algebra 
+
+**Chapter 2 : Linear Algebra**
 
 2.1 Systems of Linear Equation
 
@@ -34,7 +35,7 @@ Chapter 2 : Linear Algebra
 2.9 Further Reading
 
 
-Chapter 3 :Analytic Geometry
+**Chapter 3 :Analytic Geometry**
 
 3.1 Norms 
 
@@ -55,7 +56,7 @@ Chapter 3 :Analytic Geometry
 3.9 Rotations
 
 
-Chapter 4 : Matrix Decompositions
+**Chapter 4 : Matrix Decompositions**
 
 4.1 Determinant and Trace
 
@@ -73,7 +74,7 @@ Chapter 4 : Matrix Decompositions
 
 
 
-Chapter 5 : Vector Calculus
+**Chapter 5 : Vector Calculus**
 
 5.1 Differentiation of Univariate Functions 
 
@@ -92,7 +93,8 @@ Chapter 5 : Vector Calculus
 5.8 Linearization and Multivariate Taylor Series 
 
 
-Chapter 6 : Probability and Distributions
+**Chapter 6 : Probability and Distributions**
+
 6.1 Construction of a Probability Space 
 
 6.2 Discrete and Continuous Probabilities 
@@ -109,7 +111,7 @@ Chapter 6 : Probability and Distributions
 
 
 
-Chapter 7 : Continuous Optimization
+**Chapter 7 : Continuous Optimization**
 
 7.1 Optimization Using Gradient Descent 
 
@@ -118,7 +120,7 @@ Chapter 7 : Continuous Optimization
 7.3 Convex Optimization 
 
 
-Chapter 8 : When Models Meet Data
+**Chapter 8 : When Models Meet Data**
 
 8.1 Data, Models, and Learning
 
@@ -133,7 +135,7 @@ Chapter 8 : When Models Meet Data
 8.6 Model Selection
 
 
-Chapter 9 : Linear Regression
+**Chapter 9 : Linear Regression**
 
 9.1 Problem Formulation 
 
@@ -145,7 +147,7 @@ Chapter 9 : Linear Regression
 
 
 
-Chapter 10 : Dimensionality Reduction with Principal Component Analysis 
+**Chapter 10 : Dimensionality Reduction with Principal Component Analysis **
 
 10.1 Problem Setting 
 
@@ -163,9 +165,9 @@ Chapter 10 : Dimensionality Reduction with Principal Component Analysis
 
 
 
-Chapter 11 : Density Estimation with Gaussian Mixture Models 11.1 
+**Chapter 11 : Density Estimation with Gaussian Mixture Models **
 
-Gaussian Mixture Model 
+11.1 Gaussian Mixture Model 
 
 11.2 Parameter Learning via Maximum Likelihood
 
@@ -175,7 +177,7 @@ Gaussian Mixture Model
 
 
 
-Chapter 12 : Classification with Support Vector Machines
+**Chapter 12 : Classification with Support Vector Machines**
 
 12.1 Separating Hyperplanes 
 
